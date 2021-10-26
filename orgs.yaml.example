@@ -1,0 +1,6 @@
+- name: orgname
+  address1: address
+  address2: city
+  zipcode: 9080
+  country: country
+  domain: somedomain.com
